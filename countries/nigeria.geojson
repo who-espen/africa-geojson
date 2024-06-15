@@ -7,7 +7,7 @@
       "properties": {
         "name": "Abia",
         "density": 0,
-        "path": "/world/Nigeria/Abia"
+        "path": "Abia"
       },
       "geometry": {
         "coordinates": [
@@ -70,7 +70,7 @@
       "properties": {
         "name": "Adamawa",
         "density": 0,
-        "path": "/world/Nigeria/Adamawa"
+        "path": "Adamawa"
       },
       "geometry": {
         "coordinates": [
@@ -206,7 +206,7 @@
       "properties": {
         "name": "Akwa Ibom",
         "density": 0,
-        "path": "/world/Nigeria/Akwa Ibom"
+        "path": "Akwa Ibom"
       },
       "geometry": {
         "coordinates": [
@@ -260,7 +260,7 @@
       "properties": {
         "name": "Anambra",
         "density": 0,
-        "path": "/world/Nigeria/Anambra"
+        "path": "Anambra"
       },
       "geometry": {
         "coordinates": [
@@ -318,7 +318,7 @@
       "properties": {
         "name": "Bauchi",
         "density": 0,
-        "path": "/world/Nigeria/Bauchi"
+        "path": "Bauchi"
       },
       "geometry": {
         "coordinates": [
@@ -465,7 +465,7 @@
       "properties": {
         "name": "Bayelsa",
         "density": 0,
-        "path": "/world/Nigeria/Bayelsa"
+        "path": "Bayelsa"
       },
       "geometry": {
         "coordinates": [
@@ -681,7 +681,7 @@
       "properties": {
         "name": "Benue",
         "density": 0,
-        "path": "/world/Nigeria/Benue"
+        "path": "Benue"
       },
       "geometry": {
         "coordinates": [
@@ -788,7 +788,7 @@
       "properties": {
         "name": "Borno",
         "density": 0,
-        "path": "/world/Nigeria/Borno"
+        "path": "Borno"
       },
       "geometry": {
         "coordinates": [
@@ -950,7 +950,7 @@
       "properties": {
         "name": "Cross River",
         "density": 0,
-        "path": "/world/Nigeria/Cross River"
+        "path": "Cross River"
       },
       "geometry": {
         "coordinates": [
@@ -1046,7 +1046,7 @@
       "properties": {
         "name": "Delta",
         "density": 0,
-        "path": "/world/Nigeria/Delta"
+        "path": "Delta"
       },
       "geometry": {
         "coordinates": [
@@ -1371,7 +1371,7 @@
       "properties": {
         "name": "Ebonyi",
         "density": 0,
-        "path": "/world/Nigeria/Ebonyi"
+        "path": "Ebonyi"
       },
       "geometry": {
         "coordinates": [
@@ -1434,7 +1434,7 @@
       "properties": {
         "name": "Edo",
         "density": 0,
-        "path": "/world/Nigeria/Edo"
+        "path": "Edo"
       },
       "geometry": {
         "coordinates": [
@@ -1540,7 +1540,7 @@
       "properties": {
         "name": "Ekiti",
         "density": 0,
-        "path": "/world/Nigeria/Ekiti"
+        "path": "Ekiti"
       },
       "geometry": {
         "coordinates": [
@@ -1592,7 +1592,7 @@
       "properties": {
         "name": "Enugu",
         "density": 0,
-        "path": "/world/Nigeria/Enugu"
+        "path": "Enugu"
       },
       "geometry": {
         "coordinates": [
@@ -1657,7 +1657,7 @@
       "properties": {
         "name": "Federal Capital Territory",
         "density": 0,
-        "path": "/world/Nigeria/Federal Capital Territory"
+        "path": "Federal Capital Territory"
       },
       "geometry": {
         "coordinates": [
@@ -1701,7 +1701,7 @@
       "properties": {
         "name": "Gombe",
         "density": 0,
-        "path": "/world/Nigeria/Gombe"
+        "path": "Gombe"
       },
       "geometry": {
         "coordinates": [
@@ -1770,7 +1770,7 @@
       "properties": {
         "name": "Imo",
         "density": 0,
-        "path": "/world/Nigeria/Imo"
+        "path": "Imo"
       },
       "geometry": {
         "coordinates": [
@@ -1815,7 +1815,7 @@
       "properties": {
         "name": "Jigawa",
         "density": 0,
-        "path": "/world/Nigeria/Jigawa"
+        "path": "Jigawa"
       },
       "geometry": {
         "coordinates": [
@@ -1943,7 +1943,7 @@
       "properties": {
         "name": "Kaduna",
         "density": 0,
-        "path": "/world/Nigeria/Kaduna"
+        "path": "Kaduna"
       },
       "geometry": {
         "coordinates": [
@@ -2105,7 +2105,7 @@
       "properties": {
         "name": "Kano",
         "density": 0,
-        "path": "/world/Nigeria/Kano"
+        "path": "Kano"
       },
       "geometry": {
         "coordinates": [
@@ -2204,7 +2204,7 @@
       "properties": {
         "name": "Katsina",
         "density": 0,
-        "path": "/world/Nigeria/Katsina"
+        "path": "Katsina"
       },
       "geometry": {
         "coordinates": [
@@ -2312,7 +2312,7 @@
       "properties": {
         "name": "Kebbi",
         "density": 0,
-        "path": "/world/Nigeria/Kebbi"
+        "path": "Kebbi"
       },
       "geometry": {
         "coordinates": [
@@ -2460,7 +2460,7 @@
       "properties": {
         "name": "Kogi",
         "density": 0,
-        "path": "/world/Nigeria/Kogi"
+        "path": "Kogi"
       },
       "geometry": {
         "coordinates": [
@@ -2574,7 +2574,7 @@
       "properties": {
         "name": "Kwara",
         "density": 0,
-        "path": "/world/Nigeria/Kwara"
+        "path": "Kwara"
       },
       "geometry": {
         "coordinates": [
@@ -2714,7 +2714,7 @@
       "properties": {
         "name": "Lagos",
         "density": 0,
-        "path": "/world/Nigeria/Lagos"
+        "path": "Lagos"
       },
       "geometry": {
         "coordinates": [
@@ -2769,7 +2769,7 @@
       "properties": {
         "name": "Nassarawa",
         "density": 0,
-        "path": "/world/Nigeria/Nassarawa"
+        "path": "Nassarawa"
       },
       "geometry": {
         "coordinates": [
@@ -2882,7 +2882,7 @@
       "properties": {
         "name": "Niger",
         "density": 0,
-        "path": "/world/Nigeria/Niger"
+        "path": "Niger"
       },
       "geometry": {
         "coordinates": [
@@ -3075,7 +3075,7 @@
       "properties": {
         "name": "Ogun",
         "density": 0,
-        "path": "/world/Nigeria/Ogun"
+        "path": "Ogun"
       },
       "geometry": {
         "coordinates": [
@@ -3196,7 +3196,7 @@
       "properties": {
         "name": "Ondo",
         "density": 0,
-        "path": "/world/Nigeria/Ondo"
+        "path": "Ondo"
       },
       "geometry": {
         "coordinates": [
@@ -3294,7 +3294,7 @@
       "properties": {
         "name": "Osun",
         "density": 0,
-        "path": "/world/Nigeria/Osun"
+        "path": "Osun"
       },
       "geometry": {
         "coordinates": [
@@ -3362,7 +3362,7 @@
       "properties": {
         "name": "Oyo",
         "density": 0,
-        "path": "/world/Nigeria/Oyo"
+        "path": "Oyo"
       },
       "geometry": {
         "coordinates": [
@@ -3469,7 +3469,7 @@
       "properties": {
         "name": "Plateau",
         "density": 0,
-        "path": "/world/Nigeria/Plateau"
+        "path": "Plateau"
       },
       "geometry": {
         "coordinates": [
@@ -3571,7 +3571,7 @@
       "properties": {
         "name": "Rivers",
         "density": 0,
-        "path": "/world/Nigeria/Rivers"
+        "path": "Rivers"
       },
       "geometry": {
         "coordinates": [
@@ -3893,7 +3893,7 @@
       "properties": {
         "name": "Sokoto",
         "density": 0,
-        "path": "/world/Nigeria/Sokoto"
+        "path": "Sokoto"
       },
       "geometry": {
         "coordinates": [
@@ -3989,7 +3989,7 @@
       "properties": {
         "name": "Taraba",
         "density": 0,
-        "path": "/world/Nigeria/Taraba"
+        "path": "Taraba"
       },
       "geometry": {
         "coordinates": [
@@ -4147,7 +4147,7 @@
       "properties": {
         "name": "Water body",
         "density": 0,
-        "path": "/world/Nigeria/Water body"
+        "path": "Water body"
       },
       "geometry": {
         "coordinates": [
@@ -4199,7 +4199,7 @@
       "properties": {
         "name": "Yobe",
         "density": 0,
-        "path": "/world/Nigeria/Yobe"
+        "path": "Yobe"
       },
       "geometry": {
         "coordinates": [
@@ -4308,7 +4308,7 @@
       "properties": {
         "name": "Zamfara",
         "density": 0,
-        "path": "/world/Nigeria/Zamfara"
+        "path": "Zamfara"
       },
       "geometry": {
         "coordinates": [
